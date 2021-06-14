@@ -1,0 +1,16 @@
+﻿{
+  "assets": [],
+  "build": {
+    "build_id": "C38FDD86-4",
+    "build_number": 1,
+    "build_time": 1623632609000
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "gxylfm学习",
+  "packageName": "xzy.auto.gxylfmxx",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
