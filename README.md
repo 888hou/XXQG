@@ -1,3 +1,4 @@
+[README.md](https://github.com/gxylfm/XXQG/files/6645701/README.md)
 auto-xxqg
 # 最新版的 自动学习强国 
 可以帮你自动刷学习强国
